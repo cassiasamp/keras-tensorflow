@@ -1,3 +1,3 @@
 # keras-tensorflow
 
-Repo para os arquivos de Keras do curso 1 da Alura.
+Repo para os arquivos do primeiro curso de Keras na Alura
